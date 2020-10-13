@@ -15,6 +15,7 @@ Black Dashboard PRO features over 200 individual components, like buttons, input
 > Black Dashboard PRO Links
 
 - [Black Dashboard PRO](https://demos.creative-tim.com/marketplace/black-dashboard-pro/examples/dashboard.html?AFFILIATE=128200) - LIVE Demo
+- [Black Dashboard PRO - Documentation](https://demos.creative-tim.com/marketplace/black-dashboard-pro/docs/1.0/getting-started/introduction) - A comprehensive guide
 - [Black Dashboard Free](https://www.creative-tim.com/product/black-dashboard?AFFILIATE=128200) - The open-source version
 - [Black Dashboard PRO - Django](https://appseed.us/admin-dashboards/django-dashboard-black-pro) - Django version provided by AppSeed
 - [Black Dashboard PRO - Flask](https://appseed.us/admin-dashboards/flask-dashboard-black-pro) - Flask version provided by AppSeed
